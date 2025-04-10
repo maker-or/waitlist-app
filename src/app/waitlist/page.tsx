@@ -12,8 +12,6 @@ export default function WaitlistPage() {
           <div >
             <Waitlist />
           </div>
-          
-
         </div>
 
   );

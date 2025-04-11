@@ -19,11 +19,11 @@ export default function Home() {
         
         <div className="text-white flex flex-col items-center text-center max-w-2xl z-10 relative">
           <h1 className="text-[4em]  font-serif italic  leading-snug md:leading-[1.2]">
-            "Never Miss a Funding Opportunity"
+            &ldquo;Never Miss a Funding Opportunity&rdquo;
           </h1>
 
           <p className="mt-6  text-white text-lg md:text-2xl font-light">
-            Our AI Agent automatically applies to incubators, accelerators, and government programs—so you don't have to. Focus on growing your startup while we handle the applications!
+            Our AI Agent automatically applies to incubators, accelerators, and government programs—so you don&apos;t have to. Focus on growing your startup while we handle the applications!
           </p>
 
           <Link href="/waitlist" className="mt-10">
